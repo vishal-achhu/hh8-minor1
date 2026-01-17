@@ -315,3 +315,4 @@ const CloudMisconfigScanner = () => {
   );
 };
 
+export default CloudMisconfigScanner;
